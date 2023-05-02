@@ -1,0 +1,2 @@
+# DBMS-mini-project
+BLOOD BANK MANAGEMENT SYSTEM
